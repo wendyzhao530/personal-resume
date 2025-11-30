@@ -129,7 +129,7 @@ export const RESUME_DATA: BilingualData = {
     ui: {
       name: "make it happen",
       jobTitle: "产品经理",
-      typewriterTexts: ["赵文笛 个人简历💗", "求职方向 产品经理💡"],
+      typewriterTexts: ["赵文笛 个人简历💗", "求职方向 产品经理"],
       download: "下载 PDF",
       nav: { home: "首页", education: "教育背景", experience: "实习经历", portfolio: "作品集", skills: "技能与荣誉" },
       sections: { education: "教育背景", experience: "实习经历", portfolio: "作品集", skills: "技能与荣誉", skillsTitle: "专业技能", competitionsTitle: "竞赛经历" },
@@ -260,7 +260,7 @@ export const RESUME_DATA: BilingualData = {
     ui: {
       name: "make it happen",
       jobTitle: "Product Manager",
-      typewriterTexts: ["Wendy Zhao Resume 💗", "Target: Product Manager 💡"],
+      typewriterTexts: ["Wendy Zhao Resume 💗", "Product Manager"],
       download: "Download PDF",
       nav: { home: "Home", education: "Education", experience: "Experience", portfolio: "Portfolio", skills: "Skills" },
       sections: { education: "Education", experience: "Internship", portfolio: "Portfolio", skills: "Skills & Awards", skillsTitle: "Professional Skills", competitionsTitle: "Competitions" },
